@@ -10,9 +10,9 @@
     font-weight: bolder;
     display: flex;
     justify-content: center;
+
+}
+.container_menu-title>h1>span{
+    color:red;
 }
 
-.container_menu-title>hr{
-    margin-top: 20px;
-    margin-bottom: 5px;
-}

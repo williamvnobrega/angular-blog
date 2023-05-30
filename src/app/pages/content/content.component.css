@@ -10,17 +10,18 @@
 }
 
 .container_content > a {
+    font-weight: bolder;
     align-self: flex-start;
-    margin-top: 25px;
-    margin-left: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
 }
 
 .content_cover > img{
-    border:5px solid grey;
+    /* border:5px solid grey; */
     border-radius: 5px;
-    width: 500px;
-    min-width: 500px;
-    height: 300px;
+    width: 352px;
+    min-width: 400px;
+    height: 400px;
 }
 
 .content_description{
@@ -28,4 +29,7 @@
 }
 .content_description > p{
     color:grey;
+    width: 400px;
+    font-size: 14px;
+    text-align: left;
 }
